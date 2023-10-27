@@ -1,3 +1,12 @@
 texto
+
 esto deberia ir en b
 solo un cambio mas de b
+
+estos 
+
+
+son nuevos 
+cambios de a que deberian 
+
+estar en las dos ramas 
